@@ -1,2 +1,2 @@
-nombre = "andres"
-pais = "argentina"
+nombre = ""
+pais = ""
